@@ -24,7 +24,7 @@ console.log(newStringOne.trim());
 
 const url = "https://github.com/kanuj3766/Javascript-hindi"
 
-console.log(url.replace('%20', '-')) //      output => https://github.com/kanuj3766/Javascript-hindi
+console.log(url.replace('.', '-')) //      output => https://github.com/kanuj3766/Javascript-hindi
 
 console.log(url.includes('chandan')) // output => false
 
