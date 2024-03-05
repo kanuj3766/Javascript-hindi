@@ -17,6 +17,10 @@ JavaScript was invented by <b>Brendan</b> Eich in 1995.
 
 It was developed for <b>Netscape 2</b>, and the <b>ECMA-262</b> standard in 1997.
 
-<b> Year</b>    <b>ECMA</b>      <b>Browser</b>
-1995                              
-
+# Application of javascript
+1. Web Development
+2. Single-page application 
+3. Mobile Application
+4. Game Development
+5. Web Server and Server Application
+6. App for SmartWatch
