@@ -1,16 +1,16 @@
 # Three places to put Javascript code
-1. <b>Code between the body</b>
+1. <b>Code between the body</b><br>
 Example
-<script type="text/javascript">
-    document.Write("Javascript is a simple language");
+<script type="text/javascript"><br>
+    document.Write("Javascript is a simple language");<br>
 </script>
 
--The script tag specifies that we are using javascript .
--The text/javascript is the content type that provides information to the browser about the data.
--The document.Write() function is used to display dynamic content through javascript.
+-The script tag specifies that we are using javascript .<br>
+-The text/javascript is the content type that provides information to the browser about the data.<br>
+-The document.Write() function is used to display dynamic content through javascript.<br>
 
 
-2.<b> Code between the head tag</b>
+2.<b> Code between the head tag</b><br>
 Example
 
 We are creating a function msg(). To create function in javascript. You need to write function with function name as given below.
